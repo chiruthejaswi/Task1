@@ -1,1 +1,1 @@
-
+Predict whether a person earns more than $50,000 per year using a feedforward neural network built from scratch in PyTorch on the UCI Adult Income dataset. This problem involves hanling tabular data with both categorical and numerical features, making it an ideal candidate for deep learning experimentation and ablation studies.
